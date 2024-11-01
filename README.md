@@ -36,7 +36,7 @@ For demo, we created a **ecommerce-warehouse robotic setup**:
 
 ### ⚔️ Integration Challenges (Technical)
 
-- **Cross-Industry Integration**: We targets multiple sectors, each with unique robotic automation frameworks and architectures. Connecting these systems to the Base blockchain is resource-intensive. To onboard more industries, we aim to introduce Web3 dev tools ecosystem for industrial robotics, an area where the current blockchain space lacks support. While this will be a gradual process, it's key to speeding up integration and driving adoption.
+- **Cross-Industry Integration**: We targets multiple sectors, each with unique robotic automation frameworks and architectures. Connecting these systems to the blockchain layer is resource-intensive. To onboard more industries, we aim to introduce Web3 dev tools ecosystem for industrial robotics, an area where the current blockchain space lacks support. While this will be a gradual process, it's key to speeding up integration and driving adoption.
 - **Data Privacy and Security**: Handling sensitive data on a public blockchain is a major concern. While our current prototype uses an on-off chain reference solution, we are exploring on-chain encryption and zero-knowledge proofs (ZKPs) for better scalability and security.
 - **Scalability**: Layer 2 solution offers improvements in speed and cost, and we already use off-chain methods to reduce traffic. Moving forward, we’ll research architectures like microservices, event-driven, and cloud-based systems to enhance AutoBase's efficiency. The implementation of QuickNode Streams and QuickNode Functions had brought great improvement on our architecture design which will be bring forward in future advancement.
 
